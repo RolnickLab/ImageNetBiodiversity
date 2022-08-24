@@ -1,0 +1,270 @@
+Species,Category,Species,Clear category definition,Single species,Overlap with another category? 
+"African chameleon, Chamaeleo chamaeleon",Reptile,"African chameleon, Chamaeleo chamaeleon",1.0,1.0,0.0
+"African crocodile, Nile crocodile, Crocodylus niloticus",Reptile,"African crocodile, Nile crocodile, Crocodylus niloticus",1.0,1.0,0.0
+"African elephant, Loxodonta africana",Mammal,"African elephant, Loxodonta africana",1.0,1.0,1.0
+"African grey, African gray, Psittacus erithacus",Bird,"African grey, African gray, Psittacus erithacus",1.0,1.0,0.0
+"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",Mammal,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",1.0,1.0,0.0
+"American alligator, Alligator mississipiensis",Reptile,"American alligator, Alligator mississipiensis",1.0,1.0,0.0
+"American black bear, black bear, Ursus americanus, Euarctos americanus",Mammal,"American black bear, black bear, Ursus americanus, Euarctos americanus",1.0,1.0,0.0
+"American chameleon, anole, Anolis carolinensis",Reptile,"American chameleon, anole, Anolis carolinensis",1.0,1.0,0.0
+"American coot, marsh hen, mud hen, water hen, Fulica americana",Bird,"American coot, marsh hen, mud hen, water hen, Fulica americana",1.0,1.0,0.0
+"American egret, great white heron, Egretta albus",Bird,"American egret, great white heron, Egretta albus",0.0,1.0,0.0
+"American lobster, Northern lobster, Maine lobster, Homarus americanus",Marine-Invertebrate,"American lobster, Northern lobster, Maine lobster, Homarus americanus",1.0,1.0,1.0
+"Arabian camel, dromedary, Camelus dromedarius",Mammal,"Arabian camel, dromedary, Camelus dromedarius",1.0,1.0,0.0
+"Arctic fox, white fox, Alopex lagopus",Mammal,"Arctic fox, white fox, Alopex lagopus",1.0,1.0,0.0
+"Dungeness crab, Cancer magister",Marine-Invertebrate,"Dungeness crab, Cancer magister",1.0,1.0,0.0
+"European fire salamander, Salamandra salamandra",Amphibian,"European fire salamander, Salamandra salamandra",1.0,1.0,0.0
+"European gallinule, Porphyrio porphyrio",Bird,"European gallinule, Porphyrio porphyrio",1.0,1.0,0.0
+"Gila monster, Heloderma suspectum",Reptile,"Gila monster, Heloderma suspectum",1.0,1.0,0.0
+"Indian cobra, Naja naja",Reptile,"Indian cobra, Naja naja",1.0,1.0,0.0
+"Indian elephant, Elephas maximus",Mammal,"Indian elephant, Elephas maximus",1.0,1.0,0.0
+"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",Reptile,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",1.0,1.0,0.0
+"Madagascar cat, ring-tailed lemur, Lemur catta",Mammal,"Madagascar cat, ring-tailed lemur, Lemur catta",1.0,1.0,0.0
+admiral,Land-Invertebrate,admiral,0.0,0.0,0.0
+agama,Reptile,agama,1.0,0.0,0.0
+"albatross, mollymawk",Bird,"albatross, mollymawk",0.0,0.0,0.0
+alligator lizard,Reptile,alligator lizard,1.0,0.0,0.0
+anemone fish,Fish,anemone fish,1.0,1.0,0.0
+"ant, emmet, pismire",Land-Invertebrate,"ant, emmet, pismire",1.0,0.0,0.0
+armadillo,Mammal,armadillo,1.0,0.0,0.0
+"axolotl, mud puppy, Ambystoma mexicanum",Amphibian,"axolotl, mud puppy, Ambystoma mexicanum",1.0,1.0,0.0
+baboon,Mammal,baboon,1.0,0.0,0.0
+badger,Mammal,badger,1.0,0.0,0.0
+"bald eagle, American eagle, Haliaeetus leucocephalus",Bird,"bald eagle, American eagle, Haliaeetus leucocephalus",1.0,1.0,0.0
+banded gecko,Reptile,banded gecko,0.0,0.0,0.0
+"barn spider, Araneus cavaticus",Land-Invertebrate,"barn spider, Araneus cavaticus",1.0,1.0,0.0
+"barracouta, snoek",Fish,"barracouta, snoek",1.0,1.0,0.0
+beaver,Mammal,beaver,1.0,1.0,0.0
+bee,Land-Invertebrate,bee,1.0,0.0,0.0
+bee eater,Bird,bee eater,1.0,0.0,0.0
+"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",Mammal,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",1.0,1.0,0.0
+bison,Mammal,bison,1.0,0.0,0.0
+bittern,Bird,bittern,1.0,0.0,0.0
+"black and gold garden spider, Argiope aurantia",Land-Invertebrate,"black and gold garden spider, Argiope aurantia",1.0,1.0,0.0
+black grouse,Bird,black grouse,1.0,1.0,0.0
+"black stork, Ciconia nigra",Bird,"black stork, Ciconia nigra",1.0,1.0,0.0
+"black swan, Cygnus atratus",Bird,"black swan, Cygnus atratus",1.0,1.0,0.0
+"black widow, Latrodectus mactans",Land-Invertebrate,"black widow, Latrodectus mactans",1.0,1.0,0.0
+"black-footed ferret, ferret, Mustela nigripes",Mammal,"black-footed ferret, ferret, Mustela nigripes",1.0,1.0,0.0
+"boa constrictor, Constrictor constrictor",Reptile,"boa constrictor, Constrictor constrictor",1.0,1.0,0.0
+"box turtle, box tortoise",Reptile,"box turtle, box tortoise",1.0,0.0,0.0
+brain coral,Marine-Invertebrate,brain coral,1.0,0.0,0.0
+"brambling, Fringilla montifringilla",Bird,"brambling, Fringilla montifringilla",1.0,1.0,0.0
+"brown bear, bruin, Ursus arctos",Mammal,"brown bear, bruin, Ursus arctos",1.0,1.0,0.0
+bulbul,Bird,bulbul,1.0,0.0,0.0
+"bullfrog, Rana catesbeiana",Amphibian,"bullfrog, Rana catesbeiana",1.0,1.0,0.0
+bustard,Bird,bustard,1.0,0.0,0.0
+cabbage butterfly,Land-Invertebrate,cabbage butterfly,0.0,0.0,0.0
+"capuchin, ringtail, Cebus capucinus",Mammal,"capuchin, ringtail, Cebus capucinus",1.0,1.0,0.0
+centipede,Land-Invertebrate,centipede,1.0,0.0,0.0
+"chambered nautilus, pearly nautilus, nautilus",Marine-Invertebrate,"chambered nautilus, pearly nautilus, nautilus",1.0,1.0,0.0
+"cheetah, chetah, Acinonyx jubatus",Mammal,"cheetah, chetah, Acinonyx jubatus",1.0,1.0,0.0
+chickadee,Bird,chickadee,0.0,0.0,0.0
+"chimpanzee, chimp, Pan troglodytes",Mammal,"chimpanzee, chimp, Pan troglodytes",1.0,1.0,0.0
+"chiton, coat-of-mail shell, sea cradle, polyplacophore",Marine-Invertebrate,"chiton, coat-of-mail shell, sea cradle, polyplacophore",1.0,0.0,0.0
+"cicada, cicala",Land-Invertebrate,"cicada, cicala",1.0,0.0,0.0
+"cockroach, roach",Land-Invertebrate,"cockroach, roach",1.0,0.0,0.0
+"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",Fish,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",1.0,1.0,0.0
+"colobus, colobus monkey",Mammal,"colobus, colobus monkey",1.0,0.0,0.0
+"common iguana, iguana, Iguana iguana",Reptile,"common iguana, iguana, Iguana iguana",1.0,1.0,0.0
+"common newt, Triturus vulgaris",Amphibian,"common newt, Triturus vulgaris",1.0,1.0,0.0
+conch,Marine-Invertebrate,conch,0.0,0.0,1.0
+coucal,Bird,coucal,1.0,0.0,0.0
+"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",Mammal,"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",1.0,1.0,1.0
+"coyote, prairie wolf, brush wolf, Canis latrans",Mammal,"coyote, prairie wolf, brush wolf, Canis latrans",1.0,1.0,0.0
+crane,Bird,crane,1.0,0.0,0.0
+"crayfish, crawfish, crawdad, crawdaddy",Marine-Invertebrate,"crayfish, crawfish, crawdad, crawdaddy",1.0,0.0,1.0
+cricket,Land-Invertebrate,cricket,0.0,0.0,0.0
+damselfly,Land-Invertebrate,damselfly,1.0,0.0,0.0
+"dhole, Cuon alpinus",Mammal,"dhole, Cuon alpinus",1.0,1.0,0.0
+"diamondback, diamondback rattlesnake, Crotalus adamanteus",Reptile,"diamondback, diamondback rattlesnake, Crotalus adamanteus",1.0,1.0,0.0
+"dingo, warrigal, warragal, Canis dingo",Mammal,"dingo, warrigal, warragal, Canis dingo",1.0,1.0,0.0
+dowitcher,Bird,dowitcher,1.0,0.0,0.0
+"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito",Land-Invertebrate,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito",1.0,0.0,0.0
+drake,Bird,drake,0.0,0.0,1.0
+"dugong, Dugong dugon",Mammal,"dugong, Dugong dugon",1.0,1.0,0.0
+dung beetle,Land-Invertebrate,dung beetle,1.0,0.0,0.0
+"echidna, spiny anteater, anteater",Mammal,"echidna, spiny anteater, anteater",1.0,0.0,0.0
+eel,Fish,eel,1.0,0.0,0.0
+eft,Amphibian,eft,0.0,0.0,0.0
+"electric ray, crampfish, numbfish, torpedo",Fish,"electric ray, crampfish, numbfish, torpedo",0.0,0.0,1.0
+fiddler crab,Marine-Invertebrate,fiddler crab,1.0,0.0,0.0
+flamingo,Bird,flamingo,1.0,0.0,0.0
+"flatworm, platyhelminth",Marine-Invertebrate,"flatworm, platyhelminth",1.0,0.0,0.0
+fly,Land-Invertebrate,fly,1.0,0.0,0.0
+"fox squirrel, eastern fox squirrel, Sciurus niger",Mammal,"fox squirrel, eastern fox squirrel, Sciurus niger",1.0,1.0,0.0
+"frilled lizard, Chlamydosaurus kingi",Reptile,"frilled lizard, Chlamydosaurus kingi",1.0,1.0,0.0
+"gar, garfish, garpike, billfish, Lepisosteus osseus",Fish,"gar, garfish, garpike, billfish, Lepisosteus osseus",1.0,1.0,0.0
+"garden spider, Aranea diademata",Land-Invertebrate,"garden spider, Aranea diademata",1.0,1.0,0.0
+"garter snake, grass snake",Reptile,"garter snake, grass snake",0.0,0.0,1.0
+gazelle,Mammal,gazelle,1.0,0.0,0.0
+"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",Mammal,"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",1.0,1.0,1.0
+"gibbon, Hylobates lar",Mammal,"gibbon, Hylobates lar",1.0,1.0,0.0
+"goldfinch, Carduelis carduelis",Bird,"goldfinch, Carduelis carduelis",1.0,1.0,0.0
+"goldfish, Carassius auratus",Fish,"goldfish, Carassius auratus",1.0,1.0,0.0
+goose,Bird,goose,0.0,0.0,0.0
+"gorilla, Gorilla gorilla",Mammal,"gorilla, Gorilla gorilla",1.0,0.0,0.0
+"grasshopper, hopper",Land-Invertebrate,"grasshopper, hopper",1.0,0.0,0.0
+"great grey owl, great gray owl, Strix nebulosa",Bird,"great grey owl, great gray owl, Strix nebulosa",1.0,1.0,0.0
+"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",Fish,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",1.0,1.0,0.0
+"green lizard, Lacerta viridis",Reptile,"green lizard, Lacerta viridis",1.0,1.0,0.0
+green mamba,Reptile,green mamba,1.0,0.0,0.0
+"green snake, grass snake",Reptile,"green snake, grass snake",0.0,0.0,1.0
+"grey fox, gray fox, Urocyon cinereoargenteus",Mammal,"grey fox, gray fox, Urocyon cinereoargenteus",1.0,1.0,0.0
+"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",Mammal,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",1.0,1.0,0.0
+"ground beetle, carabid beetle",Land-Invertebrate,"ground beetle, carabid beetle",1.0,0.0,1.0
+"guenon, guenon monkey",Mammal,"guenon, guenon monkey",1.0,0.0,0.0
+"guinea pig, Cavia cobaya",Mammal,"guinea pig, Cavia cobaya",1.0,1.0,0.0
+"hammerhead, hammerhead shark",Fish,"hammerhead, hammerhead shark",1.0,0.0,0.0
+hamster,Mammal,hamster,1.0,0.0,0.0
+hare,Mammal,hare,1.0,0.0,1.0
+hartebeest,Mammal,hartebeest,1.0,1.0,0.0
+"harvestman, daddy longlegs, Phalangium opilio",Land-Invertebrate,"harvestman, daddy longlegs, Phalangium opilio",1.0,1.0,0.0
+hermit crab,Marine-Invertebrate,hermit crab,1.0,0.0,0.0
+"hippopotamus, hippo, river horse, Hippopotamus amphibius",Mammal,"hippopotamus, hippo, river horse, Hippopotamus amphibius",1.0,1.0,0.0
+"hog, pig, grunter, squealer, Sus scrofa",Mammal,"hog, pig, grunter, squealer, Sus scrofa",1.0,1.0,1.0
+"hognose snake, puff adder, sand viper",Reptile,"hognose snake, puff adder, sand viper",0.0,0.0,1.0
+hornbill,Bird,hornbill,1.0,0.0,0.0
+"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",Reptile,"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",1.0,1.0,1.0
+"house finch, linnet, Carpodacus mexicanus",Bird,"house finch, linnet, Carpodacus mexicanus",1.0,1.0,0.0
+"howler monkey, howler",Mammal,"howler monkey, howler",1.0,0.0,0.0
+hummingbird,Bird,hummingbird,1.0,0.0,0.0
+"hyena, hyaena",Mammal,"hyena, hyaena",1.0,0.0,0.0
+"ibex, Capra ibex",Mammal,"ibex, Capra ibex",1.0,1.0,0.0
+"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",Mammal,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",1.0,1.0,0.0
+"impala, Aepyceros melampus",Mammal,"impala, Aepyceros melampus",1.0,1.0,0.0
+"indigo bunting, indigo finch, indigo bird, Passerina cyanea",Bird,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",1.0,1.0,0.0
+"indri, indris, Indri indri, Indri brevicaudatus",Mammal,"indri, indris, Indri indri, Indri brevicaudatus",1.0,1.0,0.0
+isopod,Marine-Invertebrate,isopod,1.0,0.0,0.0
+jacamar,Bird,jacamar,1.0,0.0,0.0
+"jaguar, panther, Panthera onca, Felis onca",Mammal,"jaguar, panther, Panthera onca, Felis onca",1.0,1.0,0.0
+jay,Bird,jay,0.0,0.0,1.0
+jellyfish,Marine-Invertebrate,jellyfish,0.0,0.0,0.0
+"junco, snowbird",Bird,"junco, snowbird",1.0,0.0,0.0
+"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",Mammal,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",1.0,1.0,0.0
+"king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",Marine-Invertebrate,"king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",1.0,0.0,0.0
+"king penguin, Aptenodytes patagonica",Bird,"king penguin, Aptenodytes patagonica",1.0,1.0,0.0
+"king snake, kingsnake",Reptile,"king snake, kingsnake",1.0,0.0,0.0
+"kit fox, Vulpes macrotis",Mammal,"kit fox, Vulpes macrotis",1.0,1.0,0.0
+kite,Bird,kite,0.0,0.0,0.0
+"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",Mammal,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",1.0,1.0,0.0
+"lacewing, lacewing fly",Land-Invertebrate,"lacewing, lacewing fly",1.0,0.0,0.0
+"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",Land-Invertebrate,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",1.0,0.0,0.0
+langur,Mammal,langur,1.0,0.0,0.0
+"leaf beetle, chrysomelid",Land-Invertebrate,"leaf beetle, chrysomelid",1.0,0.0,0.0
+leafhopper,Land-Invertebrate,leafhopper,1.0,0.0,0.0
+"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",Reptile,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",1.0,1.0,0.0
+"leopard, Panthera pardus",Mammal,"leopard, Panthera pardus",1.0,1.0,0.0
+"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",Mammal,"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",1.0,1.0,1.0
+"limpkin, Aramus pictus",Bird,"limpkin, Aramus pictus",1.0,1.0,0.0
+"lion, king of beasts, Panthera leo",Mammal,"lion, king of beasts, Panthera leo",1.0,1.0,0.0
+lionfish,Fish,lionfish,1.0,0.0,0.0
+"little blue heron, Egretta caerulea",Bird,"little blue heron, Egretta caerulea",1.0,1.0,0.0
+llama,Mammal,llama,1.0,1.0,0.0
+"loggerhead, loggerhead turtle, Caretta caretta",Reptile,"loggerhead, loggerhead turtle, Caretta caretta",1.0,1.0,0.0
+"long-horned beetle, longicorn, longicorn beetle",Land-Invertebrate,"long-horned beetle, longicorn, longicorn beetle",1.0,0.0,0.0
+lorikeet,Bird,lorikeet,1.0,0.0,0.0
+"lycaenid, lycaenid butterfly",Land-Invertebrate,"lycaenid, lycaenid butterfly",1.0,0.0,0.0
+"lynx, catamount",Mammal,"lynx, catamount",1.0,1.0,1.0
+macaque,Mammal,macaque,1.0,0.0,0.0
+macaw,Bird,macaw,1.0,0.0,0.0
+magpie,Bird,magpie,0.0,0.0,1.0
+"mantis, mantid",Land-Invertebrate,"mantis, mantid",1.0,0.0,0.0
+marmoset,Mammal,marmoset,1.0,0.0,0.0
+marmot,Mammal,marmot,1.0,0.0,0.0
+"meerkat, mierkat",Mammal,"meerkat, mierkat",1.0,1.0,1.0
+mink,Mammal,mink,1.0,0.0,0.0
+"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",Land-Invertebrate,"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",1.0,1.0,0.0
+mongoose,Mammal,mongoose,1.0,0.0,1.0
+mud turtle,Reptile,mud turtle,1.0,0.0,0.0
+"nematode, nematode worm, roundworm",Land-Invertebrate,"nematode, nematode worm, roundworm",1.0,0.0,0.0
+"night snake, Hypsiglena torquata",Reptile,"night snake, Hypsiglena torquata",1.0,1.0,0.0
+"orangutan, orang, orangutang, Pongo pygmaeus",Mammal,"orangutan, orang, orangutang, Pongo pygmaeus",1.0,0.0,0.0
+"ostrich, Struthio camelus",Bird,"ostrich, Struthio camelus",1.0,1.0,0.0
+otter,Mammal,otter,1.0,0.0,0.0
+"oystercatcher, oyster catcher",Bird,"oystercatcher, oyster catcher",1.0,0.0,0.0
+partridge,Bird,partridge,0.0,0.0,1.0
+"patas, hussar monkey, Erythrocebus patas",Mammal,"patas, hussar monkey, Erythrocebus patas",1.0,1.0,0.0
+peacock,Bird,peacock,1.0,0.0,0.0
+pelican,Bird,pelican,1.0,0.0,0.0
+"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",Mammal,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",1.0,1.0,0.0
+"polecat, fitch, foulmart, foumart, Mustela putorius",Mammal,"polecat, fitch, foulmart, foumart, Mustela putorius",1.0,1.0,1.0
+"porcupine, hedgehog",Mammal,"porcupine, hedgehog",0.0,0.0,0.0
+"prairie chicken, prairie grouse, prairie fowl",Bird,"prairie chicken, prairie grouse, prairie fowl",1.0,0.0,0.0
+"proboscis monkey, Nasalis larvatus",Mammal,"proboscis monkey, Nasalis larvatus",1.0,1.0,0.0
+ptarmigan,Bird,ptarmigan,1.0,0.0,0.0
+"puffer, pufferfish, blowfish, globefish",Fish,"puffer, pufferfish, blowfish, globefish",1.0,0.0,0.0
+quail,Bird,quail,0.0,0.0,0.0
+"ram, tup",Mammal,"ram, tup",1.0,0.0,0.0
+"red fox, Vulpes vulpes",Mammal,"red fox, Vulpes vulpes",1.0,1.0,0.0
+"red wolf, maned wolf, Canis rufus, Canis niger",Mammal,"red wolf, maned wolf, Canis rufus, Canis niger",1.0,0.0,0.0
+"red-backed sandpiper, dunlin, Erolia alpina",Bird,"red-backed sandpiper, dunlin, Erolia alpina",1.0,1.0,0.0
+"red-breasted merganser, Mergus serrator",Bird,"red-breasted merganser, Mergus serrator",1.0,1.0,1.0
+"redshank, Tringa totanus",Bird,"redshank, Tringa totanus",1.0,1.0,0.0
+rhinoceros beetle,Land-Invertebrate,rhinoceros beetle,1.0,0.0,0.0
+"ringlet, ringlet butterfly",Land-Invertebrate,"ringlet, ringlet butterfly",1.0,0.0,0.0
+"ringneck snake, ring-necked snake, ring snake",Reptile,"ringneck snake, ring-necked snake, ring snake",1.0,0.0,0.0
+"robin, American robin, Turdus migratorius",Bird,"robin, American robin, Turdus migratorius",1.0,1.0,0.0
+"rock beauty, Holocanthus tricolor",Fish,"rock beauty, Holocanthus tricolor",1.0,1.0,0.0
+"rock crab, Cancer irroratus",Marine-Invertebrate,"rock crab, Cancer irroratus",1.0,1.0,0.0
+"rock python, rock snake, Python sebae",Reptile,"rock python, rock snake, Python sebae",1.0,1.0,0.0
+"ruddy turnstone, Arenaria interpres",Bird,"ruddy turnstone, Arenaria interpres",1.0,1.0,0.0
+"ruffed grouse, partridge, Bonasa umbellus",Bird,"ruffed grouse, partridge, Bonasa umbellus",1.0,1.0,0.0
+scorpion,Land-Invertebrate,scorpion,1.0,0.0,0.0
+"sea anemone, anemone",Marine-Invertebrate,"sea anemone, anemone",0.0,0.0,0.0
+"sea cucumber, holothurian",Marine-Invertebrate,"sea cucumber, holothurian",1.0,0.0,0.0
+sea lion,Mammal,sea lion,1.0,1.0,0.0
+"sea slug, nudibranch",Marine-Invertebrate,"sea slug, nudibranch",1.0,0.0,0.0
+sea snake,Reptile,sea snake,1.0,0.0,0.0
+sea urchin,Marine-Invertebrate,sea urchin,1.0,0.0,0.0
+"siamang, Hylobates syndactylus, Symphalangus syndactylus",Mammal,"siamang, Hylobates syndactylus, Symphalangus syndactylus",1.0,1.0,0.0
+"sidewinder, horned rattlesnake, Crotalus cerastes",Reptile,"sidewinder, horned rattlesnake, Crotalus cerastes",1.0,1.0,0.0
+"skunk, polecat, wood pussy",Mammal,"skunk, polecat, wood pussy",1.0,0.0,1.0
+"sloth bear, Melursus ursinus, Ursus ursinus",Mammal,"sloth bear, Melursus ursinus, Ursus ursinus",1.0,1.0,0.0
+slug,Land-Invertebrate,slug,1.0,0.0,0.0
+snail,Land-Invertebrate,snail,1.0,0.0,0.0
+"snow leopard, ounce, Panthera uncia",Mammal,"snow leopard, ounce, Panthera uncia",1.0,1.0,0.0
+sorrel,Mammal,sorrel,1.0,1.0,0.0
+"spider monkey, Ateles geoffroyi",Mammal,"spider monkey, Ateles geoffroyi",1.0,1.0,0.0
+"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",Marine-Invertebrate,"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",0.0,0.0,1.0
+spoonbill,Bird,spoonbill,1.0,0.0,0.0
+"spotted salamander, Ambystoma maculatum",Amphibian,"spotted salamander, Ambystoma maculatum",1.0,1.0,0.0
+"squirrel monkey, Saimiri sciureus",Mammal,"squirrel monkey, Saimiri sciureus",1.0,1.0,0.0
+"starfish, sea star",Marine-Invertebrate,"starfish, sea star",1.0,0.0,0.0
+stingray,Fish,stingray,1.0,0.0,1.0
+sturgeon,Fish,sturgeon,1.0,0.0,0.0
+"sulphur butterfly, sulfur butterfly",Land-Invertebrate,"sulphur butterfly, sulfur butterfly",1.0,0.0,0.0
+"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",Bird,"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",1.0,1.0,0.0
+"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",Amphibian,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",0.0,1.0,0.0
+tarantula,Land-Invertebrate,tarantula,1.0,0.0,0.0
+"tench, Tinca tinca",Fish,"tench, Tinca tinca",1.0,1.0,0.0
+terrapin,Reptile,terrapin,0.0,0.0,1.0
+"three-toed sloth, ai, Bradypus tridactylus",Mammal,"three-toed sloth, ai, Bradypus tridactylus",1.0,1.0,0.0
+"thunder snake, worm snake, Carphophis amoenus",Reptile,"thunder snake, worm snake, Carphophis amoenus",0.0,1.0,0.0
+tick,Land-Invertebrate,tick,1.0,0.0,0.0
+tiger beetle,Land-Invertebrate,tiger beetle,1.0,0.0,1.0
+"tiger shark, Galeocerdo cuvieri",Fish,"tiger shark, Galeocerdo cuvieri",1.0,1.0,0.0
+"tiger, Panthera tigris",Mammal,"tiger, Panthera tigris",1.0,1.0,0.0
+"timber wolf, grey wolf, gray wolf, Canis lupus",Mammal,"timber wolf, grey wolf, gray wolf, Canis lupus",1.0,1.0,0.0
+"titi, titi monkey",Mammal,"titi, titi monkey",1.0,0.0,0.0
+toucan,Bird,toucan,1.0,0.0,0.0
+"tree frog, tree-frog",Amphibian,"tree frog, tree-frog",1.0,0.0,0.0
+tusker,Mammal,tusker,0.0,0.0,1.0
+vine snake,Reptile,vine snake,1.0,0.0,0.0
+vulture,Bird,vulture,0.0,0.0,0.0
+"walking stick, walkingstick, stick insect",Land-Invertebrate,"walking stick, walkingstick, stick insect",1.0,0.0,0.0
+"wallaby, brush kangaroo",Mammal,"wallaby, brush kangaroo",1.0,0.0,0.0
+warthog,Mammal,warthog,1.0,0.0,0.0
+"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",Mammal,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",1.0,1.0,0.0
+"water ouzel, dipper",Bird,"water ouzel, dipper",1.0,0.0,0.0
+water snake,Reptile,water snake,0.0,0.0,0.0
+weasel,Mammal,weasel,1.0,0.0,0.0
+weevil,Land-Invertebrate,weevil,1.0,0.0,0.0
+"whiptail, whiptail lizard",Reptile,"whiptail, whiptail lizard",1.0,0.0,0.0
+"white stork, Ciconia ciconia",Bird,"white stork, Ciconia ciconia",1.0,1.0,0.0
+"white wolf, Arctic wolf, Canis lupus tundrarum",Mammal,"white wolf, Arctic wolf, Canis lupus tundrarum",1.0,1.0,0.0
+"wild boar, boar, Sus scrofa",Mammal,"wild boar, boar, Sus scrofa",1.0,1.0,1.0
+"wolf spider, hunting spider",Land-Invertebrate,"wolf spider, hunting spider",0.0,0.0,0.0
+wombat,Mammal,wombat,1.0,0.0,0.0
+"wood rabbit, cottontail, cottontail rabbit",Mammal,"wood rabbit, cottontail, cottontail rabbit",1.0,1.0,1.0
+zebra,Mammal,zebra,1.0,0.0,0.0
